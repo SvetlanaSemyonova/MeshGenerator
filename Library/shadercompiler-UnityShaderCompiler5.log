@@ -1,0 +1,24 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=18731 outsize=9370 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11282 outsize=24784 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5032 outsize=10966 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5372 outsize=7542 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3158 outsize=48832 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=48467 outsize=85198 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10700 outsize=18707 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=2134 outsize=812 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=2940 outsize=670 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=9231 outsize=1275 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
